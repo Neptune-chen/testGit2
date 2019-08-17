@@ -23,7 +23,7 @@ public class QueueConsumer {
 //		24、、
 		System.out.println("测试git");
 		System.out.println("测试分支bate");
-		24
+
 		try {
 			//创建连接工厂
 			ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://192.168.188.128:61616");
